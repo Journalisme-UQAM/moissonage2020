@@ -3,6 +3,10 @@ Quelques exemples des scripts de moissonnage (_scraping_) de données réalisés
 
 -----
 
+### Amélie Brissette
+Amélie a moissonné tous les articles publiés par le quotidien [_La Presse_ en janvier 2020](https://www.lapresse.ca/archives/2020.php).<br>
+[moisson-amebrissette-JHR.py](moisson-amebrissette-JHR.py)
+
 ### Clémence Bouquerod
 Clémence s'intéresse aux articles sur les féminicides publiés dans [_Le Monde_ en novembre 2019](https://www.lemonde.fr/recherche/?search_keywords=f%C3%A9minicide&start_at=01/11/2019&end_at=01/12/2019&search_sort=date_desc&page=1).<br>
 [moisson-clemyaaa-JHR.py](moisson-clemyaaa-JHR.py)
