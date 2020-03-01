@@ -23,6 +23,10 @@ Charles s'est servi de l'[API de CanLII](https://github.com/canlii/API_documenta
 Ariane recueille des infos sur [les espèces menacées et vulnérables au Québec](https://mffp.gouv.qc.ca/la-faune/especes/liste-especes-vulnerables/).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-chearie-JHR.py)
    
-### CLaudine Giroux
+### Claudine Giroux
 Claudine moissonne tous les [rapports du Directeur parlementaire du budget](https://www.pbo-dpb.gc.ca/fr/blog/news) (à Ottawa) depuis 2012.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-claudinegiroux-JHR.py)
+   
+### François-Alexis Favreau
+Saviez-vous que le site [*Actualités UQAM*](https://www.actualites.uqam.ca/) contenait plus de 8500 articles? François-Alexis a recueilli des infos de base sur chacun d'entre eux.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-CPTNPatenaude-JHR.py)
