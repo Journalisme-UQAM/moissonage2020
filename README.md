@@ -16,7 +16,7 @@ Après avoir remarqué que les URL des articles de l'hebdo de sa région, [_L'Œ
    :point_right::point_right::point_right: [**Son script**](moisson-catherinesavoie-JHR.py)
 
 ### Charles Mathieu
-Charles s'est servi de l'[API de CanLII](https://github.com/canlii/API_documentation/blob/master/FR.md) pour recueillir des informations sur tous les jugements relatifs aux assurances depuis le début de l'année 2019.<br>
+Charles s'est servi de l'[API de CanLII](https://github.com/canlii/API_documentation/blob/master/FR.md) pour recueillir des informations sur tous les jugements relatifs aux assurances rendus par tous les tribunaux du Québec depuis le début de l'année 2019.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-charlesmathieu19-JHR.py)
 
 ### Ariane Chevrier
