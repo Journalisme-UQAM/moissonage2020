@@ -18,3 +18,7 @@ Après avoir remarqué que les URL des articles de l'hebdo de sa région, [_L'Œ
 ### Charles Mathieu
 Charles s'est servi de l'[API de CanLII](https://github.com/canlii/API_documentation/blob/master/FR.md) pour recueillir des informations sur tous les jugements relatifs aux assurances depuis le début de l'année 2019.<br>
 [moisson-charlesmathieu19-JHR.py](moisson-charlesmathieu19-JHR.py)
+
+### Ariane Chevrie
+Ariane recueille des infos sur [les espèces menacées et vulnérables au Québec](https://mffp.gouv.qc.ca/la-faune/especes/liste-especes-vulnerables/).<br>
+[moisson-chearie-JHR.py](moisson-chearie-JHR.py)
