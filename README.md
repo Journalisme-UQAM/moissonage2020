@@ -30,3 +30,7 @@ Claudine moissonne tous les [rapports du Directeur parlementaire du budget](http
 ### François-Alexis Favreau
 Saviez-vous que le site [*Actualités UQAM*](https://www.actualites.uqam.ca/) contenait plus de 8500 articles? François-Alexis a recueilli des infos de base sur chacun d'entre eux.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-CPTNPatenaude-JHR.py)
+   
+### Éliane Gosselin
+Éliane s'intéresse elle aussi aux articles du *Monde*, mais pour [le mois de janvier 2020](https://www.lemonde.fr/archives-du-monde/01-01-2020/) seulement. Il y en a quand même ###.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-ElianeGo-JHR.py)
