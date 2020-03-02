@@ -36,6 +36,6 @@ Saviez-vous que le site [*Actualités UQAM*](https://www.actualites.uqam.ca/) co
    :point_right::point_right::point_right: [**Son script**](moisson-ElianeGo-JHR.py)
    
 ### Félix Desjardins
-Il n'était pas interdit aux étudiant(e)s de choisir des sites commerciaux pour faire leur exercice de moissonnage. Ce fut le cas de Félix qui, pour des raisons qui lui appartiennent, a recueilli des informations à propos d'[articles de mariage sur le site de Dollarama](https://www.dollarama.com/fr-CA/activite/evenements-fetes-et-organisation-de-mariages). Il y en a quand même ###.<br>
+Il n'était pas interdit aux étudiant(e)s de choisir des sites commerciaux pour faire leur exercice de moissonnage. Ce fut le cas de Félix qui, pour des raisons qui lui appartiennent, a recueilli des informations à propos d'[articles de mariage sur le site de Dollarama](https://www.dollarama.com/fr-CA/activite/evenements-fetes-et-organisation-de-mariages).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-flixgardener-JHR.py)
 
