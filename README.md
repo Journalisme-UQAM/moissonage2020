@@ -32,7 +32,7 @@ Saviez-vous que le site [*Actualités UQAM*](https://www.actualites.uqam.ca/) co
    :point_right::point_right::point_right: [**Son script**](moisson-CPTNPatenaude-JHR.py)
    
 ### Éliane Gosselin
-Éliane s'intéresse elle aussi aux articles du *Monde*, mais pour [le mois de janvier 2020](https://www.lemonde.fr/archives-du-monde/01-01-2020/) seulement. Il y en a quand même ###.<br>
+Éliane s'intéresse elle aussi aux articles du *Monde*, mais pour [le mois de janvier 2020](https://www.lemonde.fr/archives-du-monde/01-01-2020/) seulement. Il y en a quand même plus de 3&nbsp;000!<br>
    :point_right::point_right::point_right: [**Son script**](moisson-ElianeGo-JHR.py)
    
 ### Félix Desjardins
