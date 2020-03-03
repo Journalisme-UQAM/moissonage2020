@@ -50,3 +50,7 @@ Amatrice de sport, Jessica a moissonné les plus de 500 [articles que *La Presse
 ### Maude Faucher
 De son côté, Maude a recueilli des infos sur toutes les [recettes végétariennes de Ricardo](https://www.ricardocuisine.com/recettes/plats-principaux/vegetarien).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-maudefaucher-JHR.py)
+   
+### Mayssa Ferah
+Maïssa s'intéresse elle aussi à des recettes, mais à toutes celles proposées par le [service de livraison GoodFood](https://www.makegoodfood.ca/fr/recipes/1). Le CSV qu'elle produit donne la liste de tous les ingrédients utilisés dans ces recettes, ainsi que les quantités.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-msferah-JHR.py)
