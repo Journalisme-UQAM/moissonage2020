@@ -52,7 +52,7 @@ De son côté, Maude a recueilli des infos sur toutes les [recettes végétarien
    :point_right::point_right::point_right: [**Son script**](moisson-maudefaucher-JHR.py)
    
 ### Mayssa Ferah
-Maïssa s'intéresse elle aussi à des recettes, mais à toutes celles proposées par le [service de livraison GoodFood](https://www.makegoodfood.ca/fr/recipes/1). Le CSV qu'elle produit donne la liste de tous les ingrédients utilisés dans ces recettes, ainsi que les quantités.<br>
+Maïssa s'intéresse elle aussi à des recettes, mais à toutes celles proposées par le [service de livraison GoodFood](https://www.makegoodfood.ca/fr/recipes/1). Le CSV qu'elle produit donne la liste de tous les ingrédients utilisés dans les recettes qu'on peut retrouver dans les 200 première pages du site (près de 32&nbsp;000 ingrédients!).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-msferah-JHR.py)
 
 ### Nicholas Pereira
