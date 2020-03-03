@@ -44,5 +44,5 @@ David est allé chercher tous les [procès-verbaux de la municipalité de Saint-
    :point_right::point_right::point_right: [**Son script**](moisson-MacNFox-JHR.py)
 
 ### Jessica Potson
-Amatrice de sport, Jessica a moissonné [tous les articles que *La Presse* a consacrés à sa couverture des Jeux Olympiques d'hiver de 2010](https://www.lapresse.ca/sports/vancouver-2010/). *#nostalgie*<br>
+Amatrice de sport, Jessica a moissonné les plus de 500 [articles que *La Presse* a consacrés à sa couverture des Jeux Olympiques d'hiver de 2010](https://www.lapresse.ca/sports/vancouver-2010/). *#nostalgie*<br>
    :point_right::point_right::point_right: [**Son script**](moisson-MadSkater-JHR.py)
