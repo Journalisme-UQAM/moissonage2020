@@ -62,3 +62,7 @@ Nicholas a remarqué que les articles du [site de RDS](https://www.rds.ca/) éta
 ### Félix Pedneault
 Félix s'est intéressé aux archives de [la section tech du magazine en ligne *The Verge*](https://www.theverge.com/tech/archives/).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-Pedno-JHR.py)
+
+### Sandrine Vieira
+C'est aux [338 député(e)s siégeant à la Chambre des communes](https://www.noscommunes.ca/Members/fr/recherche) que Sandrine s'est intéressée.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-sandrinevieira-JHR.py)
