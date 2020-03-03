@@ -54,3 +54,7 @@ De son côté, Maude a recueilli des infos sur toutes les [recettes végétarien
 ### Mayssa Ferah
 Maïssa s'intéresse elle aussi à des recettes, mais à toutes celles proposées par le [service de livraison GoodFood](https://www.makegoodfood.ca/fr/recipes/1). Le CSV qu'elle produit donne la liste de tous les ingrédients utilisés dans ces recettes, ainsi que les quantités.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-msferah-JHR.py)
+
+### Nicholas Pereira
+Nicholas a remarqué que les articles du [site de RDS](https://www.rds.ca/) étaient tous suivis d'un numéro. Par exemple, cet article ([https://www.rds.ca/soccer/europe/ligue-des-champions/ligue-des-champions-barcelone-sauve-par-griezmann-a-naples-gnabry-brille-encore-a-londres-1.7256225](https://www.rds.ca/soccer/europe/ligue-des-champions/ligue-des-champions-barcelone-sauve-par-griezmann-a-naples-gnabry-brille-encore-a-londres-1.7256225)) se termine avec le numéro **1.7256225**. Nicholas s'est demandé ce qui se passerait s'il réduisait l'URL au numéro ([https://www.rds.ca/1.7256225](https://www.rds.ca/1.7256225)). Eh bien ça fonctionne! Il a donc testé un intervalle pour voir ce qu'il obtiendrait. Avec un intervalle de 100 nombres, il a recueilli trois articles. Avec 1000, il en obtient ###.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-nickpereira-JHR.py)
