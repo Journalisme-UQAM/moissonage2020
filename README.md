@@ -43,6 +43,10 @@ Il n'était pas interdit aux étudiant(e)s de choisir des sites commerciaux pour
 David est allé chercher tous les [procès-verbaux de la municipalité de Saint-Léon-le-Grand](https://municipalite.saint-leon-le-grand.qc.ca/documents/proces-verbaux.html) pour l'année 2019. J'ai ajouté à son script des fonctionnalités pour extraire le texte des fichiers PDF des procès verbaux à l'aide du module [Tika](https://github.com/chrismattmann/tika-python).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-MacNFox-JHR.py)
 
-### Jessica Potson
+### Jessica Potsou
 Amatrice de sport, Jessica a moissonné les plus de 500 [articles que *La Presse* a consacrés à sa couverture des Jeux Olympiques d'hiver de 2010](https://www.lapresse.ca/sports/vancouver-2010/). *#nostalgie*<br>
    :point_right::point_right::point_right: [**Son script**](moisson-MadSkater-JHR.py)
+
+### Maude Faucher
+De son côté, Maude a recueilli des infos sur toutes les [recettes végétariennes de Ricardo](https://www.ricardocuisine.com/recettes/plats-principaux/vegetarien).<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-maudefaucher-JHR.py)
