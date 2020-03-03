@@ -39,3 +39,7 @@ Saviez-vous que le site [*Actualités UQAM*](https://www.actualites.uqam.ca/) co
 Il n'était pas interdit aux étudiant(e)s de choisir des sites commerciaux pour faire leur exercice de moissonnage. Ce fut le cas de Félix qui, pour des raisons qui lui appartiennent, a recueilli des informations à propos d'[articles de mariage sur le site de Dollarama](https://www.dollarama.com/fr-CA/activite/evenements-fetes-et-organisation-de-mariages).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-flixgardener-JHR.py)
 
+### David Massé
+David est allé chercher tous les [procès-verbaux de la municipalité de Saint-Léon-le-Grand](https://municipalite.saint-leon-le-grand.qc.ca/documents/proces-verbaux.html) pour l'année 2019. J'ai ajouté à son script des fonctionnalités pour extraire le texte des fichiers PDF des procès verbaux à l'aide du module [Tika](https://github.com/chrismattmann/tika-python).<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-MacNFox-JHR.py)
+
