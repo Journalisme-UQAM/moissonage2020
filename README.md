@@ -58,3 +58,7 @@ Maïssa s'intéresse elle aussi à des recettes, mais à toutes celles proposée
 ### Nicholas Pereira
 Nicholas a remarqué que les articles du [site de RDS](https://www.rds.ca/) étaient tous suivis d'un numéro. Par exemple, cet article ([https://www.rds.ca/soccer/europe/ligue-des-champions/ligue-des-champions-barcelone-sauve-par-griezmann-a-naples-gnabry-brille-encore-a-londres-1.7256225](https://www.rds.ca/soccer/europe/ligue-des-champions/ligue-des-champions-barcelone-sauve-par-griezmann-a-naples-gnabry-brille-encore-a-londres-1.7256225)) se termine avec le numéro **1.7256225**. Nicholas s'est demandé ce qui se passerait s'il réduisait l'URL au numéro ([https://www.rds.ca/1.7256225](https://www.rds.ca/1.7256225)). Eh bien ça fonctionne! Il a donc testé un intervalle pour voir ce qu'il obtiendrait. Avec un intervalle de 100 nombres, il a recueilli trois articles. Avec 1000, il en obtient ###.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-nickpereira-JHR.py)
+
+### Félix Pedneault
+Félix s'est intéressé aux archives de [la section tech du magazine en ligne *The Verge*](https://www.theverge.com/tech/archives/).<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-Pedno-JHR.py)
