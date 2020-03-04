@@ -76,7 +76,7 @@ C'est un exercice de moissonnage et tous les sujets étaient permis. William a c
    :point_right::point_right::point_right: [**Son script principal**](moisson-williamdavignon-JHR.py), et son [**second**](input2-JHR.py)
    
 ### Lina Heckenast
-Costaud travail de la part de Lina! Elle a écrit un script qui peut théoriquement recueillir des infos sur [tous les utilisateurs de SoundCloud](https://soundcloud.com/people/directory/)! Je dis *théoriquement*, car il y a pas moins de ### utilisateurs de cette plateforme! Faire rouler son script prendrait des jours, sans compter que SoundCloud nous débranche régulièrement. Mais tout est complet.<br>
+Costaud travail de la part de Lina! Elle a écrit un script qui peut théoriquement recueillir des infos sur [tous les utilisateurs de SoundCloud](https://soundcloud.com/people/directory/)! Je dis *théoriquement*, car les utilisateurs de cette plateforme se comptent par millions. Juste ceux dont le pseudonyme commence par «&nbsp;A&nbsp;» sont 2&nbsp;144&nbsp;989!!! Faire rouler son script prendrait des jours, sans compter que SoundCloud nous débranche régulièrement. Mais tout est complet.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-linaheckenast-JHR.py)
 
 ### Alexandra Lauzon
@@ -84,5 +84,5 @@ Alexandra s'est elle aussi attaquée au site de [Ricardo](https://www.ricardocui
    :point_right::point_right::point_right: [**Son script**](moisson-alexandralauzon-JHR.py)
 
 ### Éloi Fournier
-).<br>
+Éloi s'intéresse aux [vols pas chers offerts par Air Transat](https://www.airtransat.com/fr-CA/vols-pas-chers-du-canada?ici=footerlink&icn=cheap-flights_french).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-eloifournier-JHR.py)
