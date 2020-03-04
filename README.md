@@ -71,6 +71,10 @@ C'est aux [338 député(e)s siégeant à la Chambre des communes](https://www.no
 Pour sa part, Simon est allé chercher [tous les articles relatifs à la NBA publiés sur le site web d'ESPN en février 2019](http://www.espn.com/nba/news/archive/_/month/february/year/2019).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-SimonDuclos-JHR.py)
    
-### Willam d'Avignon
+### William d'Avignon
 C'est un exercice de moissonnage et tous les sujets étaient permis. William a conçu un script qui moissonne la [liste des député(e)s de l'Assemblée nationale](http://www.assnat.qc.ca/fr/deputes/index.html). Lorsque la date de naissance d'un(e) élu(e) est disponible, le script détermine son signe astrologique. Un second script vous permet de demander le signe astrologique de votre député. Comme je l'ai indiqué dans les commentaires&nbsp: intérêt public zéro, mais effort excellent.<br>
    :point_right::point_right::point_right: [**Son script principal**](moisson-williamdavignon-JHR.py), et son [**second**](input2-JHR.py)
+   
+### Lina Heckenast
+Costaud travail de la part de Lina! Elle a écrit un script qui peut théoriquement recueillir des infos sur [tous les utilisateurs de SoundCloud](https://soundcloud.com/people/directory/)! Je dis *théoriquement*, car il y a pas moins de ### utilisateurs de cette plateforme! Faire rouler son script prendrait des jours, sans compter que SoundCloud nous débranche régulièrement. Mais tout est complet.<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-linaheckenast-JHR.py)
