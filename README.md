@@ -80,7 +80,7 @@ Costaud travail de la part de Lina! Elle a écrit un script qui peut théoriquem
    :point_right::point_right::point_right: [**Son script**](moisson-linaheckenast-JHR.py)
 
 ### Alexandra Lauzon
-Alexandra s'est elle aussi attaquée au site de [Ricardo](https://www.ricardocuisine.com), mais pour en extraire TOUTES les recettes (seulement les URL).<br>
+Alexandra s'est elle aussi attaquée au site de [Ricardo](https://www.ricardocuisine.com), mais pour en extraire TOUTES les quelque 7&nbsp;000 recettes (seulement les URL).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-alexandralauzon-JHR.py)
 
 ### Éloi Fournier
