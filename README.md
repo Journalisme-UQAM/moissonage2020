@@ -86,3 +86,5 @@ Alexandra s'est elle aussi attaquée au site de [Ricardo](https://www.ricardocui
 ### Éloi Fournier
 Éloi s'intéresse aux [vols pas chers offerts par Air Transat](https://www.airtransat.com/fr-CA/vols-pas-chers-du-canada?ici=footerlink&icn=cheap-flights_french).<br>
    :point_right::point_right::point_right: [**Son script**](moisson-eloifournier-JHR.py)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Journalisme-UQAM/moissonage2020/master)
