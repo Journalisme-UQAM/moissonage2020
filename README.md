@@ -78,3 +78,11 @@ C'est un exercice de moissonnage et tous les sujets étaient permis. William a c
 ### Lina Heckenast
 Costaud travail de la part de Lina! Elle a écrit un script qui peut théoriquement recueillir des infos sur [tous les utilisateurs de SoundCloud](https://soundcloud.com/people/directory/)! Je dis *théoriquement*, car il y a pas moins de ### utilisateurs de cette plateforme! Faire rouler son script prendrait des jours, sans compter que SoundCloud nous débranche régulièrement. Mais tout est complet.<br>
    :point_right::point_right::point_right: [**Son script**](moisson-linaheckenast-JHR.py)
+
+### Alexandra Lauzon
+Alexandra s'est elle aussi attaquée au site de [Ricardo](https://www.ricardocuisine.com), mais pour en extraire TOUTES les recettes (seulement les URL).<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-alexandralauzon-JHR.py)
+
+### Éloi Fournier
+).<br>
+   :point_right::point_right::point_right: [**Son script**](moisson-eloifournier-JHR.py)
