@@ -67,58 +67,58 @@ for letter in letters:
                 nb += len(links6) ### POUR COMPTER LE NOMBRE TOTAL DE USERS SUR SOUNDCLOUD
                 print(nb)
 
-#                 for link6 in links6:
-#                     urlUser = urlBase+link6.find("a")["href"]
-#                     # print(urlUsers) ### JE VAIS METTRE CETTE VARIABLE AU SINGULIER, CAR ICI, CE QUE TU AS, C'EST L'URL D'UN PROFIL INDIVIDUEL
-#                     print(urlUser)
+                for link6 in links6:
+                    urlUser = urlBase+link6.find("a")["href"]
+                    # print(urlUsers) ### JE VAIS METTRE CETTE VARIABLE AU SINGULIER, CAR ICI, CE QUE TU AS, C'EST L'URL D'UN PROFIL INDIVIDUEL
+                    print(urlUser)
 
-#                     siteurlUser = requests.get(urlUser, headers=entetes)
-#                     pageUser = BeautifulSoup(siteurlUser.text,"html.parser")
+                    siteurlUser = requests.get(urlUser, headers=entetes)
+                    pageUser = BeautifulSoup(siteurlUser.text,"html.parser")
 
-#     #                 #À partir d'ici ça devrait fonctionner comme en haut, mais de ce que j'ai lu en ligne, il se pourrait que je ne sois pas 
-#     #                 #capable de moissonner l'info parce que ce serait des blocs de javascript qui envoient l'information
-#     #                 #en même temps, l'info est vraiment dans le code html du site, ce qui fait que je ne comprends pas trop. 
-#     #                 #en inspectant j'ai tout de même vu un path de JS, donc je me dis que tout est possible.
+    #                 #À partir d'ici ça devrait fonctionner comme en haut, mais de ce que j'ai lu en ligne, il se pourrait que je ne sois pas 
+    #                 #capable de moissonner l'info parce que ce serait des blocs de javascript qui envoient l'information
+    #                 #en même temps, l'info est vraiment dans le code html du site, ce qui fait que je ne comprends pas trop. 
+    #                 #en inspectant j'ai tout de même vu un path de JS, donc je me dis que tout est possible.
 
-#                 ### LES DEUX LIGNES CI-DESSOUS NE SONT PAS UTILES.
-#                     # profile = pageurlUsers.find_all("div",class_="profileHeaderInfo__content sc-media-content")
-#                     # print(profile)
+                ### LES DEUX LIGNES CI-DESSOUS NE SONT PAS UTILES.
+                    # profile = pageurlUsers.find_all("div",class_="profileHeaderInfo__content sc-media-content")
+                    # print(profile)
 
-#                     ### C'EST UN CAS OÙ LES BALISES META PEUVENT RECELER DES INFOS INTÉRESSANTES
+                    ### C'EST UN CAS OÙ LES BALISES META PEUVENT RECELER DES INFOS INTÉRESSANTES
 
-#                     # for info in profile: ### BOUCLE NON NÉCESSAIRE
-#                     n+=1
-#                     # directory=list()
-#                     directory = []
-# #                     username = info.find("h3", class_="profileHeaderInfo__userName g-type-shrinkwrap-block g-type-shrinkwrap-large-primary")
-# #                     name2 = info.find("h4", class_="profileHeaderInfo__additional g-type-shrinkwrap-block g-type-shrinkwrap-large-secondary")
-# #                     #ici je ne savais pas comment différencier les deux
-# #                     location = info.find("h4", class_="profileHeaderInfo__additional g-type-shrinkwrap-block g-type-shrinkwrap-large-secondary")
-# #                     #print(n,username,name2,location)
+                    # for info in profile: ### BOUCLE NON NÉCESSAIRE
+                    n+=1
+                    # directory=list()
+                    directory = []
+#                     username = info.find("h3", class_="profileHeaderInfo__userName g-type-shrinkwrap-block g-type-shrinkwrap-large-primary")
+#                     name2 = info.find("h4", class_="profileHeaderInfo__additional g-type-shrinkwrap-block g-type-shrinkwrap-large-secondary")
+#                     #ici je ne savais pas comment différencier les deux
+#                     location = info.find("h4", class_="profileHeaderInfo__additional g-type-shrinkwrap-block g-type-shrinkwrap-large-secondary")
+#                     #print(n,username,name2,location)
 
-#                     nom = pageUser.find("meta", attrs={"property":"og:title"})["content"]
-#                     pseudo = link6.find("a")["href"][1:]
-#                     try:
-#                         ville = pageUser.find("meta", attrs={"property":"og:locality"})["content"]
-#                     except:
-#                         ville = ""
-#                     try:
-#                         pays = pageUser.find("meta", attrs={"property":"og:country"})["content"]
-#                     except:
-#                         pays = ""
-#                     numero = pageUser.find("meta", attrs={"property":"twitter:app:url:googleplay"})["content"]
-#                     numero = numero.split(":")[-1].strip()
+                    nom = pageUser.find("meta", attrs={"property":"og:title"})["content"]
+                    pseudo = link6.find("a")["href"][1:]
+                    try:
+                        ville = pageUser.find("meta", attrs={"property":"og:locality"})["content"]
+                    except:
+                        ville = ""
+                    try:
+                        pays = pageUser.find("meta", attrs={"property":"og:country"})["content"]
+                    except:
+                        pays = ""
+                    numero = pageUser.find("meta", attrs={"property":"twitter:app:url:googleplay"})["content"]
+                    numero = numero.split(":")[-1].strip()
                     
-# #                     directory.append(username)
-# #                     directory.append(name2)
-# #                     directory.append(location)
+#                     directory.append(username)
+#                     directory.append(name2)
+#                     directory.append(location)
 
-#                     directory = [n,numero,nom,pseudo,ville,pays]
-#                     print(directory)
+                    directory = [n,numero,nom,pseudo,ville,pays]
+                    print(directory)
 
-# #                     mumble=open(fichier,"a")
-# #                     rap=csv.writer(mumble)
-# #                     rap.writerow(directory)
+#                     mumble=open(fichier,"a")
+#                     rap=csv.writer(mumble)
+#                     rap.writerow(directory)
 
                 
 
