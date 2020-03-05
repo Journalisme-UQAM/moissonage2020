@@ -72,7 +72,7 @@ Pour sa part, Simon est allé chercher [tous les articles relatifs à la NBA pub
    :point_right::point_right::point_right: [**Son script**](moisson-SimonDuclos-JHR.py)
    
 ### William d'Avignon
-C'est un exercice de moissonnage et tous les sujets étaient permis. William a conçu un script qui moissonne la [liste des député(e)s de l'Assemblée nationale](http://www.assnat.qc.ca/fr/deputes/index.html). Lorsque la date de naissance d'un(e) élu(e) est disponible, le script détermine son signe astrologique. Un second script vous permet de demander le signe astrologique de votre député. Comme je l'ai indiqué dans les commentaires&nbsp: intérêt public zéro, mais effort excellent.<br>
+C'est un exercice de moissonnage et tous les sujets étaient permis. William a conçu un script qui moissonne la [liste des député(e)s de l'Assemblée nationale](http://www.assnat.qc.ca/fr/deputes/index.html). Lorsque la date de naissance d'un(e) élu(e) est disponible, le script détermine son signe astrologique. Un second script vous permet de demander le signe astrologique de votre député. Comme je l'ai indiqué dans les commentaires&nbsp;: intérêt public zéro, mais effort excellent.<br>
    :point_right::point_right::point_right: [**Son script principal**](moisson-williamdavignon-JHR.py), et son [**second**](input2-JHR.py)
    
 ### Lina Heckenast
